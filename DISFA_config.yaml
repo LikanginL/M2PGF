@@ -1,0 +1,5 @@
+dataset_path: 'data/DISFA'
+num_classes: 2
+neighbor_num: 1
+#pain    2   1
+#disfa  5   3
